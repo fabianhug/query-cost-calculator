@@ -1,4 +1,4 @@
-streamlit
 Cython
-graphql
+streamlit==1.25.0
+gql==3.4.1
 pandas
